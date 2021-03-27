@@ -1,6 +1,10 @@
 # fbc
 
-A new Flutter project.
+Youtube : https://www.youtube.com/watch?v=JxFj7iNbDF0
+
+flutter firebase chatting example
+
+플러터 파이어베이스르 이용한 채팅앱 예제입니다.
 
 ## Getting Started
 
